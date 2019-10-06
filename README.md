@@ -6,5 +6,4 @@
 #### 捐助
 
 如果您觉得我们的开源软件对你有所帮助，请扫下方二维码打赏我们一杯咖啡。
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1006/183018_43334788_2311946.jpeg "打赏码.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1006/183407_2576be69_2311946.jpeg "打赏码_small.jpg")
